@@ -1,1 +1,1 @@
-# PHARMANED
+# PHARMANED is a website foe uniting Community Pharmacists in Awka to collaborate in resolving several Public health issues bothering the south east and the entire Nigeria , I intend to expand it to a mobile app as time passes.
